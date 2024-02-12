@@ -30,9 +30,9 @@ You can explore the clustering results in the respective CSV files provided. Add
 
 **Dependencies**
 
-Python 3.x
-Pandas
-NumPy
+Python 3.x,
+Pandas,
+NumPy,
 Scikit-learn
 
 **License**
