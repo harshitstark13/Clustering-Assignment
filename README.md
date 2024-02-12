@@ -1,5 +1,5 @@
 # Clustering Analysis with Iris Dataset
-This repository contains the code and results for clustering analysis performed on the famous Iris dataset using various clustering algorithms: Gaussian Mixture Model, Hierarchical Clustering, K-Means, and their comparison.
+This repository contains the code and results for clustering analysis performed on the famous Iris dataset using various clustering algorithms: DBSCAN, Hierarchical Clustering, K-Means, and their comparison.
 
 **Iris Dataset**
 
