@@ -15,13 +15,13 @@ compared_results_iris.csv: Comparison of clustering results across different alg
 
 **Clustering Algorithms**
 
-DBSCAN
+**DBSCAN:**
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a density-based clustering algorithm that groups together closely packed points while marking outliers as noise. It does not require specifying the number of clusters beforehand and is effective in identifying clusters of arbitrary shapes in noisy datasets.
 
-Hierarchical Clustering
+**Hierarchical Clustering:**
 Hierarchical clustering is a method of cluster analysis that builds a hierarchy of clusters. It starts with each data point as a separate cluster and then iteratively merges the closest clusters until only one cluster remains.
 
-K-Means
+**K-Means:**
 K-Means is a popular clustering algorithm that partitions the dataset into K clusters by iteratively reassigning data points to the nearest cluster centroid and updating the centroids based on the mean of data points in each cluster.
 
 **Usage**
